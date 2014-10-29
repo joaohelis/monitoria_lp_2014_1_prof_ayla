@@ -2,7 +2,9 @@ package ufpb.monitoria.lp.exercicio_01;
 
 import java.util.Scanner;
 
-// 2. Crie um procedimento/método/função que recebe 3 notas, calcula sua média e retorna sua situação como aluno (aprovado, reprovado ou na final). O aluno é reprovado se tem media inferior a 4. O aluno vai para final se tem nota maior ou igual a 4 e menor que 7. Caso contrário, é aprovado.
+// 2. Crie um procedimento/método/função que recebe 3 notas, calcula sua média e retorna sua situação 
+// como aluno (aprovado, reprovado ou na final). O aluno é reprovado se tem media inferior a 4. O aluno 
+// vai para final se tem nota maior ou igual a 4 e menor que 7. Caso contrário, é aprovado.
 
 public class Exercicio01Questao02 {
 	
