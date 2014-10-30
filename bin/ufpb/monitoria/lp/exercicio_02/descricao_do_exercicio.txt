@@ -1,0 +1,2 @@
+EXERCÍCIO 2: 09/10 (Use uma linguagem próxima a Java)
+1.     Crie um procedimento/método/função que recebe um preço de um produto e um valor de desconto (número entre 0 e 100) e que retorne o valor do produto após aplicar o desconto. Por exemplo, se esse método receber um produto que custa 100 reais e onde deve ser aplicado um desconto de 10%, o método deve retornar 90.
