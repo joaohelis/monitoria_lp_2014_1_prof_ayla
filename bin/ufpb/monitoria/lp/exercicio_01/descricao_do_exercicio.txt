@@ -1,7 +1,0 @@
-EXERCÍCIO 1: 09/10 (Use qualquer linguagem de programação)
-
- 
-1.     Crie um procedimento/método/função que recebe 3 notas e retorna sua média aritmética.
-2.     Crie um procedimento/método/função que recebe 3 notas, calcula sua média e retorna sua situação como aluno (aprovado, reprovado ou na final). O aluno é reprovado se tem media inferior a 4. O aluno vai para final se tem nota maior ou igual a 4 e menor que 7. Caso contrário, é aprovado.
-3.     Crie um procedimento/método/função que recebe as 3 notas parciais do aluno e sua nota da final e diz se você foi aprovado ou não (Média final, que é a média ponderada de suas notas maior ou igual a 5, sabendo que a nota da final tem peso 4 e a media das 3 notas da disciplina tem peso 6).
-4.     Crie um procedimento/método/função para calcular o fatorial de um número que é passado como parâmetro.
